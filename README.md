@@ -14,3 +14,4 @@ O que buscamos é que nosso projeto seja amplamente adotado por todas as partes 
 Por exemplo, ao usar nosso aplicativo, um aluno que enfrentava conflitos de horário e desorganização anteriormente poderá agora planejar seu cronograma com facilidade, resultando em um melhor aproveitamento das aulas e menos estresse. Os mentores, por sua vez, terão todas as ferramentas necessárias para oferecer orientação eficaz, contribuindo para um maior sucesso acadêmico.
 
 # Conclusão
+Este projeto de Gestão Acadêmica é uma solução abrangente que visa tornar a vida acadêmica mais simples, eficiente e gratificante para todos os envolvidos. Com o uso de tecnologia e coleta de dados, estamos confiantes de que podemos fazer a diferença real nas instituições de ensino, promovendo o sucesso acadêmico e profissional dos alunos. Estamos empolgados em embarcar nesta jornada e convidamos você a se juntar a nós nesta missão de aprimorar a educação.
